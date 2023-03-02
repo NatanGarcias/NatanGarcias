@@ -6,10 +6,12 @@
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=NatanGarcias&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGarcias&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
   </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
