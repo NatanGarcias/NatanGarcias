@@ -3,8 +3,8 @@
 #### 📊 Github Stats
  <div>
   <a href="https://github.com/NatanGarcias">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=NatanGarcias&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGarcias&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=NatanGarcias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGarcias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
   </div>
   
   <div style="display: inline_block"><br>
